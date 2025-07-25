@@ -67,7 +67,78 @@ Uber-Data-Analysis/
 
 I'm **Harshal Dolas**, an aspiring data scientist and engineer passionate about transforming raw data into actionable insights.
 
-Connect with me on [LinkedIn](#)  
-Explore more projects at: [GitHub Profile](#)
+Connect with me on [LinkedIn](
+---
+
+## 📈 What I Learned
+
+- Handling and cleaning real-world data (missing values, inconsistent entries)
+- Visual storytelling using Seaborn & Matplotlib
+- Asking business-oriented questions from raw data
+- Extracting actionable insights through EDA
+
+---
+
+## 🔗 Future Improvements
+
+- Add interactive dashboards using Plotly or Streamlit  
+- Predict ride demand using machine learning  
+- Automate reports with Python scripts
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Harshal Dolas**, an aspiring data scientist and engineer passionate about transforming raw data into actionable insights.
+
+Connect with me on [LinkedIn](
+---
+
+## 📈 What I Learned
+
+- Handling and cleaning real-world data (missing values, inconsistent entries)
+- Visual storytelling using Seaborn & Matplotlib
+- Asking business-oriented questions from raw data
+- Extracting actionable insights through EDA
+
+---
+
+## 🔗 Future Improvements
+
+- Add interactive dashboards using Plotly or Streamlit  
+- Predict ride demand using machine learning  
+- Automate reports with Python scripts
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Harshal Dolas**, an aspiring data scientist and engineer passionate about transforming raw data into actionable insights.
+
+Connect with me on [LinkedIn](#
+---
+
+## 📈 What I Learned
+
+- Handling and cleaning real-world data (missing values, inconsistent entries)
+- Visual storytelling using Seaborn & Matplotlib
+- Asking business-oriented questions from raw data
+- Extracting actionable insights through EDA
+
+---
+
+## 🔗 Future Improvements
+
+- Add interactive dashboards using Plotly or Streamlit  
+- Predict ride demand using machine learning  
+- Automate reports with Python scripts
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Harshal Dolas**, an aspiring data scientist and engineer passionate about transforming raw data into actionable insights.
+
+Connect with me on [LinkedIn](#www.linkedin.com/in/harshal-dolas-84a429266)  
 """
 
