@@ -139,6 +139,6 @@ Connect with me on [LinkedIn](#
 
 I'm **Harshal Dolas**, an aspiring data scientist and engineer passionate about transforming raw data into actionable insights.
 
-Connect with me on [LinkedIn](#www.linkedin.com/in/harshal-dolas-84a429266)  
+Connect with me on [LinkedIn](www.linkedin.com/in/harshal-dolas-84a429266)  
 """
 
